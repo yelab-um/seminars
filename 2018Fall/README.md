@@ -1,6 +1,5 @@
 # Schedule
 
-
 ---
 
 **Date**: Jul 27, 2018<br/>
@@ -8,6 +7,8 @@
 **Presenter(s)**: Jie Gui, Yan Li<br/>
 **Topic(s)**: Review of deep learning; RNN for NLP<br/>
 **Materials**:<br/>
+- [Slides 1: Deep learning review](https://github.com/yelab-um/seminars/blob/master/materials/Deep%2Blearning.pdf)
+- [Slides 2: RNN for NLP](https://github.com/yelab-um/seminars/blob/master/materials/RNNforNLP_study_summary.pdf)
 
 ---
 
@@ -17,3 +18,17 @@
 **Presenter(s)**: Yan Li<br/>
 **Topic(s)**: Attention in NLP<br/>
 **Materials**:<br/>
+- [Slides 1: Attention in NLP](https://github.com/yelab-um/seminars/blob/master/materials/Attention%2Bin%2BNLP.pdf)
+
+---
+
+
+**Date**: TBD<br/>
+**Time**: TBD<br/>
+**Presenter(s)**: Shuang Qiu<br/>
+**Topic(s)**: TBD<br/>
+**Materials**:<br/>
+- [Slides 1:]()
+
+
+
