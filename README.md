@@ -1,11 +1,5 @@
 # Seminars
-The seminar will be held weekly via Zoom
+The seminar will be held weekly via Zoom. Please send Jun<junnnchen@umich.edu> the slides and the references at least one day ahead of the seminar.
+For the detailed schedule, please check the corresponding folder 
 
-Schedule
----
-**Date**: Jul 27, 2018 
-**Time**: 9:00 PM EST
-**Presenter(s)**: Jie Gui, Yan Li
-**Topic(s)**: Jie Gui: Review of deep learning; Yan Li: RNN for NLP
-**Materials**:
 
