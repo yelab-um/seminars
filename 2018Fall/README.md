@@ -1,6 +1,5 @@
 # Schedule
----
----
+
 
 **Date**: Jul 27, 2018<br/>
 **Time**: 9:00 PM EST<br/>
