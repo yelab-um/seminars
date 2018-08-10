@@ -26,7 +26,7 @@
 **Date**: Aug 10, 2018<br/>
 **Time**: 9:00 PM EST<br/>
 **Presenter(s)**: Shuang Qiu<br/>
-**Topic(s)**: Unit structure of basic RNN,LSTM and GRU<br/>
+**Topic(s)**: Unit structure of basic RNN, LSTM and GRU<br/>
 **Materials**:<br/>
 - [Slides 1: RNN-LSTM-GRU](https://github.com/yelab-um/seminars/blob/master/materials/RNN-LSTM-GRU.pdf)
 - [Resource 1: colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
