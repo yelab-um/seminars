@@ -23,12 +23,12 @@
 ---
 
 
-**Date**: TBD<br/>
-**Time**: TBD<br/>
+**Date**: Aug 10, 2018<br/>
+**Time**: 9:00 PM EST<br/>
 **Presenter(s)**: Shuang Qiu<br/>
-**Topic(s)**: TBD<br/>
+**Topic(s)**: Unit structure of basic RNN,LSTM and GRU<br/>
 **Materials**:<br/>
-- [Slides 1:]()
+- [Slides 1:](https://github.com/yelab-um/seminars/blob/master/materials/RNN-LSTM-GRU.pdf)
 
 
 
