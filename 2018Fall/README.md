@@ -28,7 +28,7 @@
 **Presenter(s)**: Shuang Qiu<br/>
 **Topic(s)**: Unit structure of basic RNN,LSTM and GRU<br/>
 **Materials**:<br/>
-- [Slides 1:](https://github.com/yelab-um/seminars/blob/master/materials/RNN-LSTM-GRU.pdf)
+- [Slides 1: RNN-LSTM-GRU](https://github.com/yelab-um/seminars/blob/master/materials/RNN-LSTM-GRU.pdf)
 
 
 
