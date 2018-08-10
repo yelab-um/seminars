@@ -1,4 +1,5 @@
-# Schedule
+# :octocat: Schedule
+<br/>
 
 
 **Date**: Jul 27, 2018<br/>
