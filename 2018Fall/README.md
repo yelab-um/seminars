@@ -39,7 +39,7 @@
 **Presenter(s)**: Zengxia Zou<br/>
 **Topic(s)**: ResNet<br/>
 **Materials**:<br/>
-- [Slides 1: ResNet](https://github.com/yelab-um/seminars/blob/master/materials/RNN-LSTM-GRU.pdf)
+- [Slides 1: AlexNet, VGG, GoogleNet and ResNet](https://github.com/yelab-um/seminars/blob/master/materials/ResNet%20-%2020180818.pdf)
 
 
 
