@@ -31,5 +31,16 @@
 - [Slides 1: RNN-LSTM-GRU](https://github.com/yelab-um/seminars/blob/master/materials/RNN-LSTM-GRU.pdf)
 - [Resource 1: colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
+---
+
+
+**Date**: Aug 16, 2018<br/>
+**Time**: 9:00 PM EST<br/>
+**Presenter(s)**: Zengxia Zou<br/>
+**Topic(s)**: ResNet<br/>
+**Materials**:<br/>
+- [Slides 1: ResNet](https://github.com/yelab-um/seminars/blob/master/materials/RNN-LSTM-GRU.pdf)
+
+
 
 
