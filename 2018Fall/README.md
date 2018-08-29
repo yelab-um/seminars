@@ -34,7 +34,7 @@
 ---
 
 
-**Date**: Aug 16, 2018<br/>
+**Date**: Aug 31, 2018<br/>
 **Time**: 9:00 PM EST<br/>
 **Presenter(s)**: Zengxia Zou<br/>
 **Topic(s)**: ResNet<br/>
