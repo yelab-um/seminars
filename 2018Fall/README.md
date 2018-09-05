@@ -40,6 +40,12 @@
 **Topic(s)**: ResNet<br/>
 **Materials**:<br/>
 - [Slides 1: AlexNet, VGG, GoogleNet and ResNet](https://github.com/yelab-um/seminars/blob/master/materials/ResNet%20-%2020180818.pdf)
+- [Paper 1: IEEEProc98_LeNet](https://github.com/yelab-um/seminars/blob/master/materials/IEEEProc98-LeNet5.pdf)
+- [Paper 2: NIPS12_AlexNet](https://github.com/yelab-um/seminars/blob/master/materials/NIPS12-AlexNet.pdf)
+- [Paper 3: ICLR15_VGG](https://github.com/yelab-um/seminars/blob/master/materials/ICLR15-VGG.pdf)
+- [Paper 4: CVPR15_GoogleNet](https://github.com/yelab-um/seminars/blob/master/materials/CVPR15-GoogleNet.pdf)
+- [Paper 5: CVPR16_ResNet](https://github.com/yelab-um/seminars/blob/master/materials/CVPR16-ResNet.pdf)
+- [Paper 6: ArXiv16_ModelCompare](https://github.com/yelab-um/seminars/blob/master/materials/ArXiv16-ModelCompare.pdf)
 
 ---
 
