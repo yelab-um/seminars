@@ -36,10 +36,20 @@
 
 **Date**: Aug 31, 2018<br/>
 **Time**: 9:00 PM EST<br/>
-**Presenter(s)**: Zengxia Zou<br/>
+**Presenter(s)**: Zhengxia Zou<br/>
 **Topic(s)**: ResNet<br/>
 **Materials**:<br/>
 - [Slides 1: AlexNet, VGG, GoogleNet and ResNet](https://github.com/yelab-um/seminars/blob/master/materials/ResNet%20-%2020180818.pdf)
+
+---
+
+
+**Date**: Sep 8, 2018<br/>
+**Time**: 9:00 PM EST<br/>
+**Presenter(s)**: Jun Chen<br/>
+**Topic(s)**: Attention<br/>
+**Materials**:<br/>
+- [Slides 1:]()
 
 
 
