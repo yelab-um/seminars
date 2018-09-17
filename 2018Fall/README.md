@@ -55,7 +55,7 @@
 **Presenter(s)**: Jun Chen<br/>
 **Topic(s)**: Attention<br/>
 **Materials**:<br/>
-- [Slides 1:]()
+- [Slides 1: Attention in sequence model](https://github.com/yelab-um/seminars/blob/master/materials/Attention_v2.pdf)
 
 ---
 
