@@ -71,6 +71,13 @@
 **Topic(s)**: Optimization for deep learning<br/>
 **Materials**:<br/>
 - [Slides 1: Stochastic optimization and training skills in deep learining](https://github.com/yelab-um/seminars/blob/master/materials/Optimization%20for%20Deep%20Learning_Zeng.pdf)
+- [Paper 1: ADADELTA](https://github.com/yelab-um/seminars/blob/master/materials/ADADELTA.pdf)
+- [Paper 2: Adam](https://github.com/yelab-um/seminars/blob/master/materials/Adam.pdf)
+- [Paper 3: Batch Normalization](https://github.com/yelab-um/seminars/blob/master/materials/Batch%20Normalization.pdf)
+- [Paper 4: Dean](https://github.com/yelab-um/seminars/blob/master/materials/Dean.pdf)
+- [Paper 5: naturebp](https://github.com/yelab-um/seminars/blob/master/materials/naturebp.pdf)
+- [Paper 6: Nesterov_ODE](https://github.com/yelab-um/seminars/blob/master/materials/Nesterov_ODE.pdf)
+
 
 
 
