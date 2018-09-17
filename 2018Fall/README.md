@@ -56,6 +56,11 @@
 **Topic(s)**: Attention<br/>
 **Materials**:<br/>
 - [Slides 1: Attention in sequence model](https://github.com/yelab-um/seminars/blob/master/materials/Attention_v2.pdf)
+- [Paper 1: addictive_attention-ICLR2015](https://github.com/yelab-um/seminars/blob/master/materials/addictive_attention-ICLR2015.pdf)
+- [Paper 2: multiplicative_attention-EMNLP2015](https://github.com/yelab-um/seminars/blob/master/materials/multiplicative_attention-EMNLP2015t.pdf)
+- [Paper 3: key-value_attention-ICLR2017](https://github.com/yelab-um/seminars/blob/master/materials/key-value_attention-ICLR2017.pdf)
+- [Paper 4: self_attention-ICLR2017](https://github.com/yelab-um/seminars/blob/master/materials/self_attention-ICLR2017.pdf)
+
 
 ---
 
