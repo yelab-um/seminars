@@ -76,7 +76,19 @@
 - [Paper 3: Batch Normalization](https://github.com/yelab-um/seminars/blob/master/materials/Batch%20Normalization.pdf)
 - [Paper 4: Dean](https://github.com/yelab-um/seminars/blob/master/materials/Dean.pdf)
 - [Paper 5: naturebp](https://github.com/yelab-um/seminars/blob/master/materials/naturebp.pdf)
-- [Paper 6: Nesterov_ODE](https://github.com/yelab-um/seminars/blob/master/materials/Nesterov_ODE.pdf)
+- [Paper 6: Nesterov_ODE](https://github.com/yelab-um/seminars/blob/master/materials/Nesterov_ODE.pdf
+
+
+---
+
+
+**Date**: Sep 22, 2018<br/>
+**Time**: 9:00 PM EST<br/>
+**Presenter(s)**: Yan Li<br/>
+**Topic(s)**: Automatic Speech Recognition<br/>
+**Materials**:<br/>
+- [Slides 1: Automatic speech recognition](https://github.com/yelab-um/seminars/blob/master/materials/ASR_final.pdf)
+
 
 
 
