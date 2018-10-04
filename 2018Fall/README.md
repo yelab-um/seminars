@@ -90,6 +90,20 @@
 - [Slides 1: Automatic speech recognition](https://github.com/yelab-um/seminars/blob/master/materials/ASR_final.pdf)
 
 
+---
+
+
+**Date**: Sep 29, 2018<br/>
+**Time**: 8:30 PM EST<br/>
+**Presenter(s)**: Yan Li<br/>
+**Topic(s)**: GAN<br/>
+**Materials**:<br/>
+- [Slides 1: GAN]
+- [Paper 1: GAN](https://github.com/yelab-um/seminars/blob/master/materials/1-1%20Generative%20Adversarial%20Nets.pdf)
+- [Paper 2: InfoGAN](https://github.com/yelab-um/seminars/blob/master/materials/2-1%20InfoGAN%EF%BC%9AInterpretable%20Representation%20Learning%20by%20Information%20Maximizing%20Generative%20Adversarial%20Nets.pdf)
+- [Paper 3: Conditional GAN](https://github.com/yelab-um/seminars/blob/master/materials/2-2%20Conditional%20Generative%20Adversarial%20Nets.pdf)
+- [Paper 4: DCGAN](https://github.com/yelab-um/seminars/blob/master/materials/2-3%20Unsupervised%20Representation%20Learning%20with%20Deep%20Convolutional%20Generative%20Adversarial%20Networks.pdf)
+
 
 
 
