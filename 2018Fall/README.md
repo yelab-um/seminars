@@ -105,5 +105,41 @@
 - [Paper 4: DCGAN](https://github.com/yelab-um/seminars/blob/master/materials/2-3%20Unsupervised%20Representation%20Learning%20with%20Deep%20Convolutional%20Generative%20Adversarial%20Networks.pdf)
 
 
+---
+
+
+**Date**: Oct 8, 2018<br/>
+**Time**: 10:00 AM EST<br/>
+**Presenter(s)**: Yike Liu<br/>
+**Topic(s)**: Seq2Seq Models(I)<br/>
+**Materials**:<br/>
+- [Slides 1: Seq2Seq_1006](https://github.com/yelab-um/seminars/blob/master/materials/Seq2Seq_1006pdf.pdf)
+
+
+---
+
+
+**Date**: Oct 13, 2018<br/>
+**Time**: 9:00 PM EST<br/>
+**Presenter(s)**: Zhengxia Zou<br/>
+**Topic(s)**: Object detection/faster-RCNN<br/>
+**Materials**:<br/>
+- [Slides 1: Object detection-from RCNN to faster-RCNN](https://github.com/yelab-um/seminars/blob/master/materials/From%2BRCNN%2Bto%2BFasterRCNN-ZhengxiaZou-20181014.pdf)
+
+
+---
+
+
+**Date**: Oct 20, 2018<br/>
+**Time**: 9:00 PM EST<br/>
+**Presenter(s)**: Yike Liu<br/>
+**Topic(s)**: Seq2Seq Models(II)<br/>
+**Materials**:<br/>
+- [Slides 1: Seq2Seq_1019](hhttps://github.com/yelab-um/seminars/blob/master/materials/Seq2Seq_1019.pdf)
+
+
+
+
+
 
 
