@@ -135,7 +135,7 @@
 **Presenter(s)**: Yike Liu<br/>
 **Topic(s)**: Seq2Seq Models(II)<br/>
 **Materials**:<br/>
-- [Slides 1: Seq2Seq_1019](hhttps://github.com/yelab-um/seminars/blob/master/materials/Seq2Seq_1019.pdf)
+- [Slides 1: Seq2Seq_1019](https://github.com/yelab-um/seminars/blob/master/materials/Seq2Seq_1019.pdf)
 
 
 
