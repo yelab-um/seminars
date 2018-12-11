@@ -144,7 +144,7 @@
 **Date**: Nov 3, 2018<br/>
 **Time**: 9:00 PM EST<br/>
 **Presenter(s)**: Shuang Qiu<br/>
-**Topic(s)**: OT<br/>
+**Topic(s)**: Optimal Transport<br/>
 **Materials**:<br/>
 - [Slides 1: OT]()
 
@@ -154,7 +154,7 @@
 
 **Date**: Nov 10, 2018<br/>
 **Time**: 8:00 PM EST<br/>
-**Presenter(s)**: Shuang Qiu<br/>
+**Presenter(s)**: Jun Chen<br/>
 **Topic(s)**: Progress of Pre-training in NLP<br/>
 **Materials**:<br/>
 - [Slides 1: Progress of Pre-training in NLP](https://github.com/yelab-um/seminars/blob/master/materials/Progress%2Bof%2BPre-training%2Bin%2BNLP.pdf)
@@ -177,7 +177,7 @@
 **Date**: Nov 30, 2018<br/>
 **Time**: 8:00 PM EST<br/>
 **Presenter(s)**: Jie Gui<br/>
-**Topic(s)**: WGAN<br/>
+**Topic(s)**: Wasserstein GAN<br/>
 **Materials**:<br/>
 - [Slides 1: pre_wgan_wgan](https://github.com/yelab-um/seminars/blob/master/materials/pre_wgan-wgan.pdf)
 
