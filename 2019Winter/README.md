@@ -5,7 +5,7 @@
 **Date**: Feb 16, 2019<br/>
 **Time**: 8:00 PM EST<br/>
 **Presenter(s)**: Wenjun Zeng<br/>
-**Topic(s)**: Reinforcement Learning II<br/>
+**Topic(s)**: Reinforcement Learning<br/>
 **Materials**:<br/>
 - [Slides 1: RL2]()
 
@@ -26,7 +26,7 @@
 **Date**: Mar 23, 2019<br/>
 **Time**: 9:00 PM EST<br/>
 **Presenter(s)**: Wenjun Zeng<br/>
-**Topic(s)**: Reinforcement Learning III<br/>
+**Topic(s)**: Reinforcement Learning<br/>
 **Materials**:<br/>
 - [Slides 1: RL3](https://github.com/yelab-um/seminars/blob/master/materials/RL3.pdf)
 
