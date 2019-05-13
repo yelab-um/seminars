@@ -12,23 +12,23 @@
 ---
 
 
-**Date**: Feb 23, 2019<br/>
+**Date**: March 2, 2019<br/>
 **Time**: 9:00 PM EST<br/>
 **Presenter(s)**: Zhengxia Zou<br/>
 **Topic(s)**: Object Detection<br/>
 **Materials**:<br/>
-- [Slides 1: From YOLO to RetinaNet](https://ithub.com/yelab-um/seminars/blob/master/materials/Attention%2Bin%2BNLP.pdf)
+- [Slides 1: From YOLO to RetinaNet]()
+- [Slides 2: Speed-Up Methods in Object Detection]()
 
 ---
 
 
-**Date**: Aug 10, 2018<br/>
+**Date**: March 30, 2019<br/>
 **Time**: 9:00 PM EST<br/>
-**Presenter(s)**: Shuang Qiu<br/>
-**Topic(s)**: Unit structure of basic RNN, LSTM and GRU<br/>
+**Presenter(s)**: Wenjun Zeng<br/>
+**Topic(s)**: Reinforcement Learning III<br/>
 **Materials**:<br/>
-- [Slides 1: RNN-LSTM-GRU](https://github.com/yelab-um/seminars/blob/master/materials/RNN-LSTM-GRU.pdf)
-- [Resource 1: colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Slides 1: RL3]()
 
 ---
 
