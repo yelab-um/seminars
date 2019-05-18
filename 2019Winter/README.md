@@ -84,3 +84,13 @@
 ---
 
 
+**Date**: May 18, 2019<br/>
+**Time**: 9:00 PM EST<br/>
+**Presenter(s)**: Huapeng Wu<br/>
+**Topic(s)**: SRGAN<br/>
+**Materials**:<br/>
+- [Slides 1: From SRGAN to ESRGAN(https://github.com/yelab-um/seminars/blob/master/materials/From%20SRGAN%20to%20ESRGAN.pdf)
+
+
+
+
