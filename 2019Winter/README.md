@@ -89,7 +89,7 @@
 **Presenter(s)**: Huapeng Wu<br/>
 **Topic(s)**: SRGAN<br/>
 **Materials**:<br/>
-- [Slides 1: From SRGAN to ESRGAN(https://github.com/yelab-um/seminars/blob/master/materials/From%20SRGAN%20to%20ESRGAN.pdf)
+- [Slides 1: From SRGAN to ESRGAN](https://github.com/yelab-um/seminars/blob/master/materials/From%20SRGAN%20to%20ESRGAN.pdf)
 
 
 
