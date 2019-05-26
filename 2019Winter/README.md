@@ -92,5 +92,14 @@
 - [Slides 1: From SRGAN to ESRGAN](https://github.com/yelab-um/seminars/blob/master/materials/From%20SRGAN%20to%20ESRGAN.pdf)
 
 
+---
+
+
+**Date**: May 25, 2019<br/>
+**Time**: 9:00 PM EST<br/>
+**Presenter(s)**: Wenjun Zeng<br/>
+**Topic(s)**: Reinforcement learning<br/>
+**Materials**:<br/>
+- [Slides 1: RL4](https://github.com/yelab-um/seminars/blob/master/materials/RL4.pdf)
 
 
